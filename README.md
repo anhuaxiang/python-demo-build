@@ -2,7 +2,7 @@
 
 ## 打包
 ```
-python setup.py sdist
+python setup.py sdist bdist_wheel
 ```
 
 ## build
